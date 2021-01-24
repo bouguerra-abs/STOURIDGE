@@ -10,10 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    {{--  <link href="{{ asset('assets/img/favicon.ico') }}" rel="icon" type='image/x-icon'>  --}}
     <link href="{{ asset('favicon.ico') }}" rel="icon" type='image/x-icon'>
-    {{--  <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">  --}}
-
     <!-- Vendor CSS Files -->
     <link href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/vendor/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
