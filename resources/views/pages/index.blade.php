@@ -4,11 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
     <title>{{ config('app.name') }}</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-
+    <meta content="I created a Stouridge website to display the most important skills that I have mastered in the field of coding. Stouridge carries my CV in the field of programming and web development, which is one of the many projects that I have created." name="description">
+    <meta content="are portfolio deductions deductible in 2021,are portfolios qualitative data,are portfolio managers rich,can portfolio recovery sue you,portfolio do you write,have portfolio meaning,portfolios have,how portfolio looks like,is portfoliobox free,portfolio where to buy,where do portfolio managers work,what portfolio to choose on raiz,
+    why portfolio is important,who is portfolio manager,portfolio who am i,which portfolio is best,which portfolio would you recommend,stouridge website,stouridge portfolio,stouridge CV,stouridge web development,stouridge design,stouridge graphic,stouridge php,stouridge laravel,stouridge framework, stouridge frameworks, stouridge js,stouridge javacript,
+    stouridge jquery,stouridge vuejs, stouridge reactjs;stouridge angular, stouridge bootstrap,stouridge mailwinds,stouridge materialize,stouridge html5,stouridge css3,stouridge application,stouridge web application,stouridge desktop application,stouridge android application,stouridge ios application" name="keywords">
+    <meta name="author" content="stouridge" />
     <!-- Favicons -->
     <link href="{{ asset('favicon.ico') }}" rel="icon" type='image/x-icon'>
     <!-- Vendor CSS Files -->
@@ -24,13 +25,6 @@
     <!-- Fontawesome Style -->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/fontawesome.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('css/all.css') }}">
-
-    <!-- =======================================================
-    * Template Name: DevFolio - v2.4.0
-    * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-    * Author: BootstrapMade.com
-    * License: https://bootstrapmade.com/license/
-    ======================================================== -->
 </head>
 
 <body id="page-top">

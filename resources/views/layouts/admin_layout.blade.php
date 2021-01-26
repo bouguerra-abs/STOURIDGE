@@ -4,9 +4,11 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        {{--  <link href="{{ asset('assets/img/favicon.ico') }}" rel="icon">  --}}
+        <meta name="description" content="I created a Stouridge website to display the most important skills that I have mastered in the field of coding. Stouridge carries my CV in the field of programming and web development, which is one of the many projects that I have created." />
+        <meta name="keywords" content="are portfolio deductions deductible in 2021,are portfolios qualitative data,are portfolio managers rich,can portfolio recovery sue you,portfolio do you write,have portfolio meaning,portfolios have,how portfolio looks like,is portfoliobox free,portfolio where to buy,where do portfolio managers work,what portfolio to choose on raiz,
+        why portfolio is important,who is portfolio manager,portfolio who am i,which portfolio is best,which portfolio would you recommend,stouridge website,stouridge portfolio,stouridge CV,stouridge web development,stouridge design,stouridge graphic,stouridge php,stouridge laravel,stouridge framework, stouridge frameworks, stouridge js,stouridge javacript,
+        stouridge jquery,stouridge vuejs, stouridge reactjs;stouridge angular, stouridge bootstrap,stouridge mailwinds,stouridge materialize,stouridge html5,stouridge css3,stouridge application,stouridge web application,stouridge desktop application,stouridge android application,stouridge ios application" />
+        <meta name="author" content="stouridge" />
         <link href="{{ asset('favicon.ico') }}" rel="icon" type='image/x-icon'>
         <title>{{ config('app.name') }}-Admin</title>
         <link href="{{ asset('css/dashboard_style.css') }}" rel="stylesheet" />
